@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://growaleaf.github.io/smt5v-vengeance-fusion-browser/sitemap.xml
